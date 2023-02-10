@@ -1,0 +1,34 @@
+1. Find all the topics and tasks which are thought in the month of October 
+
+2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+
+3. Find all the company drives and students who are appeared for the placement
+
+4. Find the number of problems solved by the user in codekata
+
+5. Find all the mentors with who has the mentee's count more than 15
+
+6. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
+
+
+// answers //
+
+1. db.users.find({
+   "date": "October"
+})
+
+2. db.company.find({
+   date of visit: {
+      $gte: new Date("2020-10-15"),
+      $lte: new Date("2020-10-31")
+   }
+})
+
+3. db.data.find({"appeared for the placement":"yes"}).pretty();
+
+4. db.data.find({"codeKata" : {$gt:0}}).pretty();
+
+5. db.mentors.find({ "No of Mentee's": { $gt: 15 } })
+
+6. db.data.find({"date":{$gte:"15-Oct-2020,$lte:"31-Oct-2020"}, attendance:"a", isTaskSubmitted:"no"}).pretty();
+

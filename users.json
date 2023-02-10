@@ -1,0 +1,197 @@
+[
+    {
+    "_id":"63dvd28201c7b558s5g545c1",
+    "user name": "Prasanth",
+    "topics": "HTML & CSS",
+    "tasks": "Web Page",
+    "date": "10-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                       "name": "TCS",
+                       "date":"11-Oct-2020"
+                    },
+                    {
+                        "name": "CTS",
+                        "date":"13-Oct-2020"
+                    },
+                    { 
+                       "name": "WIPRO",
+                       "date":"15-Oct-2020"
+                    }
+                ],
+    "codekata": 124,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "22-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g545c2",
+    "user name": "Ranjeeth",
+    "topics": "Bootstrap",
+    "tasks": "NavBar",
+    "date": "11-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                       "name": "Infosys",
+                       "date":"25-Oct-2020"
+                    },
+                    {
+                        "name": "Capgemini",
+                        "date":"16-Oct-2020"
+                    },
+                    { 
+                       "name": "WIPRO",
+                       "date":"15-Oct-2020"
+                    }
+                ],
+    "codekata": 89,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "15-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Gokul",
+    "topics": "Javascript",
+    "tasks": "Youtube",
+    "date": "15-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                        "name": "Capgemini",
+                        "date":"16-Oct-2020"
+                    },
+                    {
+                        "name": "CTS",
+                        "date":"13-Oct-2020"
+                    },
+                    { 
+                       "name": "Google",
+                       "date":"20-Oct-2020"
+                    }
+                ],
+    "codekata": 198,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "28-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Velliyangiri",
+    "topics": "React",
+    "tasks": "SB Admin Page",
+    "date": "13-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                       "name": "Accenture",
+                       "date":"18-Oct-2020"
+                    },
+                    {
+                        "name": "CTS",
+                        "date":"13-Oct-2020"
+                    },
+                    { 
+                       "name": "Google",
+                       "date":"20-Oct-2020"
+                    }
+                ],
+    "codekata": 95,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "14-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Karthick",
+    "topics": "Node JS",
+    "tasks": "Zen Class Data",
+    "date": "19-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                        "name": "Infosys",
+                        "date":"25-Oct-2020"
+                    },
+                    {
+                        "name": "TCS",
+                       "date":"11-Oct-2020"
+                    },
+                    { 
+                        "name": "WIPRO",
+                        "date":"15-Oct-2020"
+                    }
+                ],
+    "codekata":135,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "22-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Mathan",
+    "topics": "MongoDB",
+    "tasks": "Database CRUD",
+    "date": "19-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                        "name": "Infosys",
+                        "date":"25-Oct-2020"
+                    },
+                    {
+                        "name": "TCS",
+                       "date":"11-Oct-2020"
+                    },
+                    { 
+                        "name": "WIPRO",
+                        "date":"15-Oct-2020"
+                    }
+                ],
+    "codekata":122,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "21-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Anand",
+    "topics": "Express JS",
+    "tasks": "Gmail Backend",
+    "date": "20-Oct-2020",
+    "appeared for the placement": "yes",
+    "companies": [
+                    {
+                        "name": "Google",
+                        "date":"20-Oct-2020"
+                    },
+                    {
+                        "name": "CTS",
+                        "date":"13-Oct-2020"
+                    },
+                    { 
+                        "name": "WIPRO",
+                        "date":"15-Oct-2020"
+                    }
+                ],
+    "codekata":144,
+    "attendance": "p",
+    "isTaskSubmitted": "yes",
+    "Submisstion Date" : "25-Oct-2020"
+  },
+  {
+    "_id":"63dvd28201c7b558s5g5451a",
+    "user name": "Pravin",
+    "topics": "AWS",
+    "tasks": "AWS",
+    "date": "21-Oct-2020",
+    "appeared for the placement": "no",
+    "companies": [],
+    "codekata":25,
+    "attendance": "a",
+    "isTaskSubmitted": "no",
+    "Submisstion Date" : ""
+  }
+]
